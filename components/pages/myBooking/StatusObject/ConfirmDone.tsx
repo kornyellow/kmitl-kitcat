@@ -52,7 +52,6 @@ const ConfirmDone: React.FC = () => {
                 <IoClose size={35} />
               </button>
             </div>
-            <div className=""></div>
 
             <div className="detailCatSitter flex justify-center">
               <text className="text-xl font-medium text-blueText">
